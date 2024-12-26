@@ -1,3 +1,4 @@
 # smriti
-This is my first Git Repository
-Autthor-Smriti Singh
+This is my first Git Repository.
+<br>
+Author-Smriti Singh
